@@ -2,7 +2,7 @@
 ## Setup for Project
 
 ### 1.Grab a copy of the project.
-* git clone https://github.com/rajeshr007/cricket_task.git
+* git clone https://github.com/rishabhme/cricket.git
 ### 2.Create a virtual environment and install dependencies.
 * mkvirtualenv vir_cricket
 * pip install -r requirements.txt
